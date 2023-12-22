@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sebastian Machaj
+Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="24" height="24" alt="Hi" /> My name is Sebastian Machaj
 ========================================================================================================================================
 
-Full Stack Web Developer
-------------------------
+### I'm Full Stack Web Developer (Typescript, React, Node.js, PHP)
 
-I transform ideas into working things, i.e. into interactive applications.<br>
-I believe that it's possible to combine passion with work, which is why I'm involved in every project.<br>
 My journey as a Web Developer began in 2017, previously I took on various tasks and jobs for ex. I was making an Android game using Unreal Engine.<br>
-I founded my own company called Black Red Studio, where I created web apps, participated in numerous different projects, while improving my technical and personal skills. Over the years, I've worked with many companies from different industries, I've learned how they operate, what their main needs are, and also met a lot of interesting people.
+I founded my own company called Black Red Studio, where I created web apps, participated in numerous different projects, while improving my technical and personal skills. Over the years, I've worked with many companies from different industries, I've learned how they operate, what their main needs are, and also met a lot of interesting people.<br>
+Mainly, I transform various ideas into working applications.<br>
+I believe that it's possible to combine passion with work, which is why I'm involved in every project.<br>
 
 * 🌍  I'm based in Poland, Lublin
 * 🖥️  See my portfolio at [Black Red Studio](http://blackredstudio.com)
